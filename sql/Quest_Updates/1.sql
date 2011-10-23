@@ -1,0 +1,1 @@
+UPDATE `creature_proto` SET `npcflags` = 1 WHERE `Entry` = 15420; 
